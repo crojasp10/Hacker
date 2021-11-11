@@ -30,8 +30,6 @@ public class Controller {
 
         System.out.println(DiagonalDifference.diagonalDifference(arr));
 
-
-
         System.out.println(arr.size());
 
     }
