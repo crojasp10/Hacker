@@ -35,8 +35,12 @@ public class Controller {
         System.out.println(arr.size());
 
 */
-
-        System.out.println(NumberLineJumps.kangaroo(45,7,56,2));
+        List <Integer> lista3 = new ArrayList<Integer>();
+        lista3.add(12);
+        lista3.add(24);
+        lista3.add(10);
+        lista3.add(24);
+        System.out.println(BreakingRecords.breakingRecords(lista3));
 
     }
 
